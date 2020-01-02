@@ -109,6 +109,9 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
+      {% if author.skype %}
+        <li><a href="{{ author.skype }}"><i class="fab fa-fw fa-skype-square"></i> Skype</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
