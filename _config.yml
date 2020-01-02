@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayushjwl"
+  github           : #"ayushjwl"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,6 +105,7 @@ author:
   linkedin         : "ayush-jaiswal-91312bb0"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
+  skype            : "https://web.skype.com/" 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
