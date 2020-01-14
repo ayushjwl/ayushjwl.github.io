@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Lucknow Christian Degree College, 2013
+* M.Sc. in Mathematics, Indian Institute of Technology, Kanpur, 2015
+* Ph.D in Vector Bundles and related topics, Indian Institute of Technology, Gandhinagar, 2022 (expected)
 
-Work experience
+%Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,7 +25,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub%
   
 Skills
 ======
