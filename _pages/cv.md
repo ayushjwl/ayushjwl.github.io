@@ -15,17 +15,17 @@ Education
 * M.Sc. in Mathematics, Indian Institute of Technology, Kanpur, 2015
 * Ph.D in Vector Bundles and related topics, Indian Institute of Technology, Gandhinagar, 2022 (expected)
 
-%Work experience
+# Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+#* Summer 2015: Research Assistant
+  #* Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub%
+  * Supervisor: Professor Hub
   
 Skills
 ======
