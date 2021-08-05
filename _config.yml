@@ -185,6 +185,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  portfolio: true
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,6 +228,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      # _portfolio
   #- scope:
    #   path: ""
    #   type: portfolio
