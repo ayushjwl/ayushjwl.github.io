@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. Lucknow Christian Degree College, 2013
 * M.Sc. in Mathematics, Indian Institute of Technology, Kanpur, 2015
-* Ph.D in Vector Bundles and related topics, Indian Institute of Technology, Gandhinagar, 2022 (expected)
+* Ph.D in Algebraic Geometry, Indian Institute of Technology, Gandhinagar, 2022 (expected)
 
 # Work experience
 ======
