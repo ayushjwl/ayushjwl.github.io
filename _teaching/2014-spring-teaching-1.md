@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "MA 101"
+collection: tutor
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Institute of technology, Gandhinagar"
+date: 2017-2018 (Autumn semester)
+location: "Gandhinagar, India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
