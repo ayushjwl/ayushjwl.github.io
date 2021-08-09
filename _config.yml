@@ -188,6 +188,9 @@ collections:
   portfolio: true
     output: true
     permalink: /:collection/:path/
+    tutor:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
