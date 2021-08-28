@@ -10,4 +10,4 @@ redirect_from:
 
 Hey! This is Ayush!
 
-I am doctoral student at IIT Gandhinagar in discipline of mathematics, working under supervision of Prof. Sanjay Amrutiya. My research interests lie in "Vector bundles, Parabolic vector bundles"
+I am doctoral student at IIT Gandhinagar in discipline of mathematics, working with Prof. Sanjay Amrutiya. I am interested in "Vector bundles and related topics".
