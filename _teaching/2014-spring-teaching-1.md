@@ -1,5 +1,5 @@
 ---
-title: "MA 102"
+title: "MA 100"
 collection: tutor
 type: "Undergraduate course"
 permalink: /tutor/2014-spring-teaching-1
