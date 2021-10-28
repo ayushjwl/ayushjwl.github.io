@@ -1,6 +1,6 @@
 ---
 title: "MA 102"
-collection: teaching
+collection: tutor
 type: "Undergraduate course"
 permalink: /tutor/2014-spring-teaching-1
 venue: "Indian Institute of technology Gandhinagar"
