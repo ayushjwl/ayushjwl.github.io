@@ -13,4 +13,4 @@ Hey! This is Ayush!
 I am doctoral student at IIT Gandhinagar in discipline of mathematics, working with [Prof. Sanjay Amrutiya](https://sites.google.com/site/amrutsanj). My research interestes lie in "Vector bundles and related topics".
 Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 
-**<font size="1">News</font>**
+**<font size="8">News</font>**
