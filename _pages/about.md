@@ -15,6 +15,6 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 
 **<font size="6">News</font>**
 
-<hr style="border:3px light gray">
+<hr style="border:3px light gray"> </hr>
 
 Got certificate in Scientific writing at IIT Gandhinagar
