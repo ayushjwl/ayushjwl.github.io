@@ -14,5 +14,7 @@ I am doctoral student at IIT Gandhinagar in discipline of mathematics, working w
 Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 
 **<font size="6">News</font>**
+
 "----"
+
 Got certificate in Scientific writing at IIT Gandhinagar
