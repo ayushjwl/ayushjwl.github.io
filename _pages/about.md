@@ -17,4 +17,12 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 
 <hr style="border:3px light gray"> 
 
+**Aug 2022** On d-holomorphic connections (Submitted)
+
+<hr style="border:3px light gray"> 
+
+**Feb 2022** A gauge theoretic aspects of parabolic bundles over Klein surfaces (Submitted)
+
+<hr style="border:3px light gray"> 
+
 **Nov 2021** Got certificate in Scientific writing at IIT Gandhinagar
