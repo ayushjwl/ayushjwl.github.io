@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publication/
+  - title: "Publication"
+    url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -19,7 +19,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: www.iitgn.ac.i.n
+    url: www.iitgn.ac.in
     
   #- title: "Guide"
    # url: /markdown/
