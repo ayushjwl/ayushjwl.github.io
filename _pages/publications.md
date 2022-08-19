@@ -15,5 +15,7 @@ Sanjay Amrutiya and Ayush Jaiswal
 [(arxiv)](https://arxiv.org/abs/2202.06210)
 
 On d-holomorphic connections 
+
 Sanjay Amrutiya and Ayush Jaiswal
+
 [(arxiv)](https://arxiv.org/abs/2208.04354)
