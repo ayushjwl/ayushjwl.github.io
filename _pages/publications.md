@@ -9,7 +9,9 @@ author_profile: true
 {% include base_path %}
 
 A gauge theoretic aspects of parabolic bundles over Klein surfaces
+
 Sanjay Amrutiya and Ayush Jaiswal
+
 [(arxiv)](https://arxiv.org/abs/2202.06210)
 
 On d-holomorphic connections 
