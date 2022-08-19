@@ -24,5 +24,7 @@ main:
   #- title: "Guide"
    # url: /markdown/
    
-   #- title: "Ayush"
-    # url: /ayush/
+   - title: "Ayush"
+     url: /ayush/
+
+  
