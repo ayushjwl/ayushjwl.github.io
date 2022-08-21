@@ -21,10 +21,7 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "cv"
-    url: /cv/
-   
-   #- title: "cv"
-    # url: /cv/
-
+  #- title: "cv"
+   # url: /cv/
+  
   
