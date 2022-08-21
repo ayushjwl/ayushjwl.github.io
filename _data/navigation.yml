@@ -24,7 +24,7 @@ main:
   #- title: "Guide"
    # url: /markdown/
    
-   #- title: "Contact"
-    # url: /contact/
+   - title: "CV"
+     url: /files/paper1.pdf
 
   
