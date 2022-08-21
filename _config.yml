@@ -238,15 +238,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   # _contact
-  - scope:
-      path: ""
-      type: contact
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true   
       # _portfolio
   #- scope:
    #   path: ""
