@@ -13,7 +13,7 @@ Hey! This is Ayush!
 I am doctoral student at IIT Gandhinagar in discipline of mathematics, working with [Prof. Sanjay Amrutiya](https://sites.google.com/site/amrutsanj). My research interestes lie in "Vector bundles and related topics".
 Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 
-**<font size="6">Updates</font>**  
+**<font size="6">Academic updates</font>**  
 <hr style="border:3px light gray"> 
 **Aug 2022** On d-holomorphic connections (Submitted)  
 **Feb 2022** A gauge theoretic aspects of parabolic bundles over Klein surfaces (Submitted)
