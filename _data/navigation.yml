@@ -12,8 +12,8 @@ main:
   #- title: "Tutor"
    # url: /tutor/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+  #- title: "Contact"
+   # url: /contact/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -24,7 +24,7 @@ main:
   #- title: "Guide"
    # url: /markdown/
    
-   - title: "Contact"
-     url: /contact/
+   #- title: "Contact"
+    # url: /contact/
 
   
