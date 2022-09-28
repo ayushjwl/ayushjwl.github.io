@@ -17,5 +17,5 @@ Sanjay Amrutiya and Ayush Jaiswal
 [(arxiv)](https://arxiv.org/abs/2208.04354) 
  
   
-  **My co-authors** 
-  Dr. Sanjay Amrutiya
+  **My co-authors**   
+  Sanjay Amrutiya
