@@ -16,6 +16,7 @@ Sanjay Amrutiya and Ayush Jaiswal
 Sanjay Amrutiya and Ayush Jaiswal  
 [(arxiv)](https://arxiv.org/abs/2208.04354) 
  
-  
+  **My Ph.D. supervisor**   
+  [Dr. Sanjay Amrutiya](https://sites.google.com/site/amrutsanj)
   **My co-authors**   
-  1. Sanjay Amrutiya
+  1. Dr. Sanjay Amrutiya
