@@ -8,11 +8,17 @@ author_profile:
 <title>Page Title</title>
 </head>
 <body>
- <p><p style="text-align: left;">Here, Hopefully I will post weekly puzzles very soon</p><div class="month">
- ul {list-style-type: none;}
+ <p><p style="text-align: left;">Here, Hopefully I will post weekly puzzles very soon</p><div class="month"><p style="text-align: right;"><iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&showTz=1&showCalendars=0&showTabs=0&showPrint=0&showNav=1&src=NjFjMzJlOGE1ZWI3NWFiMTZhYzVlMDFhYjRhOWViZjgyNTc3M2E3MDY5ZGM5ODQzYmY3NGYxZTc4NjdiNDI3MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border:solid 1px #777" width="300" height="300" frameborder="0" scrolling="no"></iframe>
+ <html lang="en">
+ </body>
+ </html>
+<html>
+<head>
+<style>
+* {box-sizing: border-box;}
+ul {list-style-type: none;}
 body {font-family: Verdana, sans-serif;}
 
-/* Month header */
 .month {
   padding: 70px 25px;
   width: 100%;
@@ -20,7 +26,6 @@ body {font-family: Verdana, sans-serif;}
   text-align: center;
 }
 
-/* Month list */
 .month ul {
   margin: 0;
   padding: 0;
@@ -33,23 +38,20 @@ body {font-family: Verdana, sans-serif;}
   letter-spacing: 3px;
 }
 
-/* Previous button inside month header */
 .month .prev {
   float: left;
   padding-top: 10px;
 }
 
-/* Next button */
 .month .next {
   float: right;
   padding-top: 10px;
 }
 
-/* Weekdays (Mon-Sun) */
 .weekdays {
   margin: 0;
   padding: 10px 0;
-  background-color:#ddd;
+  background-color: #ddd;
 }
 
 .weekdays li {
@@ -59,7 +61,6 @@ body {font-family: Verdana, sans-serif;}
   text-align: center;
 }
 
-/* Days (1-31) */
 .days {
   padding: 10px 0;
   background: #eee;
@@ -76,13 +77,86 @@ body {font-family: Verdana, sans-serif;}
   color: #777;
 }
 
-/* Highlight the "current" day */
 .days li .active {
   padding: 5px;
   background: #1abc9c;
   color: white !important
 }
- <p style="text-align: right;"><iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&showTz=1&showCalendars=0&showTabs=0&showPrint=0&showNav=1&src=NjFjMzJlOGE1ZWI3NWFiMTZhYzVlMDFhYjRhOWViZjgyNTc3M2E3MDY5ZGM5ODQzYmY3NGYxZTc4NjdiNDI3MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border:solid 1px #777" width="300" height="300" frameborder="0" scrolling="no"></iframe>
- <html lang="en">
- </body>
- </html>
+
+/* Add media queries for smaller screens */
+@media screen and (max-width:720px) {
+  .weekdays li, .days li {width: 13.1%;}
+}
+
+@media screen and (max-width: 420px) {
+  .weekdays li, .days li {width: 12.5%;}
+  .days li .active {padding: 2px;}
+}
+
+@media screen and (max-width: 290px) {
+  .weekdays li, .days li {width: 12.2%;}
+}
+</style>
+</head>
+<body>
+
+<h1>CSS Calendar</h1>
+
+<div class="month">      
+  <ul>
+    <li class="prev">&#10094;</li>
+    <li class="next">&#10095;</li>
+    <li>
+      August<br>
+      <span style="font-size:18px">2021</span>
+    </li>
+  </ul>
+</div>
+
+<ul class="weekdays">
+  <li>Mo</li>
+  <li>Tu</li>
+  <li>We</li>
+  <li>Th</li>
+  <li>Fr</li>
+  <li>Sa</li>
+  <li>Su</li>
+</ul>
+
+<ul class="days">  
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+  <li>9</li>
+  <li><span class="active">10</span></li>
+  <li>11</li>
+  <li>12</li>
+  <li>13</li>
+  <li>14</li>
+  <li>15</li>
+  <li>16</li>
+  <li>17</li>
+  <li>18</li>
+  <li>19</li>
+  <li>20</li>
+  <li>21</li>
+  <li>22</li>
+  <li>23</li>
+  <li>24</li>
+  <li>25</li>
+  <li>26</li>
+  <li>27</li>
+  <li>28</li>
+  <li>29</li>
+  <li>30</li>
+  <li>31</li>
+</ul>
+
+</body>
+</html>
+ 
