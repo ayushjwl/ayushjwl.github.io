@@ -19,3 +19,9 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 **Feb 2022** A gauge theoretic aspects of parabolic bundles over Klein surfaces (Submitted)
 <hr style="border:3px light gray">  
 **Nov 2021** Got certificate in Scientific writing at IIT Gandhinagar
+<footer>
+  <a href="https://www.digits.net" target="_blank">
+    <img src="https://counter.digits.net/?counter={7df35c5f-d134-7f64-0d84-866a21ecefac}&template=simple" 
+     alt="Hit Counter by Digits" border="0"  />
+  </a>
+  </footer>
