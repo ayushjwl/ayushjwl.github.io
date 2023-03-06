@@ -22,7 +22,7 @@ main:
    # url: /contact/
     
   - title: "CV"
-    url: /files/Ayush_CV.pdf
+    url: /_cv/Ayush_CV.pdf
   
   #- title: "Miscellaneous"
    # url: /_pages/Puzzles/Puzzles.html
