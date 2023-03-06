@@ -21,8 +21,8 @@ main:
   #- title: "Contact"
    # url: /contact/
     
-  - title: "CV"
-    url: /files/Ayush_CV.pdf
+  #- title: "CV"
+   # url: /files/Ayush_CV.pdf
   
   #- title: "Miscellaneous"
    # url: /_pages/Puzzles/Puzzles.html
