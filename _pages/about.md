@@ -12,7 +12,8 @@ Hey! This is Ayush!
 
 I am Post-doctoral student at IISER Tirupati in the department of mathematics. Prior to joining IISER Tirupati, I was doctoral student at IIT Gandhinagar in the discipline of mathematics, working with [Prof. Sanjay Amrutiya](https://sites.google.com/site/amrutsanj). My research interestes lie in "Vector bundles and related topics".
 Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
-**<font size="6">Teaching(present)<\font>**
+<hr style="border:3px light gray"> 
+**<font size="6">Teaching(present)</font>**
   <hr style="border:3px light gray">
   Summer term (2022-2023)<br>
   MTH 121-Linear Algebra (As TA)<br>
