@@ -15,7 +15,7 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 <hr style="border:3px light gray"> 
 **<font size="6">Teaching(present)</font>**
   <hr style="border:3px light gray">
-  Summer term (2022-2023)<br>
+  Summer term (2022-2023), IISER Tirupati<br>
   MTH 121-Linear Algebra (As TA)<br>
   Duties-Taking tutorials, invigilating exams, evaluating answer scripts
   <hr style="border:3px light gray">  
