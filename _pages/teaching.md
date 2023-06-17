@@ -13,9 +13,9 @@ author_profile: true
   <hr style="border:3px light gray">  
 **<font size="5">Teaching details</font>**  
 <hr style="border:3px light gray">
-**Autumn 2017-2018** MA 101--Mathematics 1 (Real analysis and several variable calculus)--IIT Gandhinagar, India (Teaching Associate).<br>
-**Autumn 2017-2018** MA 101--Mathematics 1 (Real analysis and several variable calculus)--IIT Gandhinagar, India (Teaching Associate).
+**Autumn 2019-2020** MA 504--Linear Algebra--IIT Gandhinagar, India (Graduate Teaching Fellow).<br>
+**Spring 2019-2020** MA 102--Mathematics II (Several variable calculus and complex analysis)--IIT Gandhinagar, India (Graduate Teaching Fellow).
 <hr style="border:3px light gray">
-**Autumn 2017-2018** MA 101--Mathematics 1 (Real analysis and several variable calculus)--IIT Gandhinagar, India (Teaching Associate).
+**Spring 2018-2019** MA 102--Mathematics II (Real analysis and several variable calculus)--IIT Gandhinagar, India (Graduate Teaching Fellow).
 <hr style="border:3px light gray">  
-**Autumn 2017-2018** MA 101--Mathematics 1 (Real analysis and several variable calculus)--IIT Gandhinagar, India (Teaching Associate).
+**Autumn 2017-2018** MA 101--Mathematics I (Linear algebra and differential equations)--IIT Gandhinagar, India (Teaching Associate).
