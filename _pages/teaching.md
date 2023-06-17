@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: ""
+title: "Teaching(present)"
 permalink: /teaching/
 author_profile: true
 ---
-<hr>
+<!--<hr>
 **<font size="6">Teaching(present)</font>**  
-<hr style="border:3px light gray">
+<hr style="border:3px light gray">-->
   Summer term (2022-2023), IISER Tirupati<br>
   MTH 121-Linear Algebra (As TA)<br>
   Duties-Taking tutorials, invigilating exams, evaluating answer scripts
   <hr style="border:3px light gray">  
-**<font size="6">Teaching details</font>**  
+**<font size="5">Teaching details</font>**  
 <hr style="border:3px light gray">
 **1 May 2023** Joined IISER Tirupati as a post-doctoral student<br>
 **14 March 2023** (<a href="files/Poster(Pi day 2023-IIT Gandhinagar).pdf">Link</a>)Participated in poster presentation with the topic "Orientability and Poincare duality theorem" on the ocassion of <it>Pie day</it> at IIT Gandhinagar, Gandhinagar, Gujarat, India.<br>
