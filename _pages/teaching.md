@@ -7,9 +7,9 @@ author_profile: true
 <!--<hr>
 **<font size="6">Teaching(present)</font>**  
 <hr style="border:3px light gray">-->
-  Spring 2022-2023, IISER Tirupati<br>
+  **Spring 2022-2023, IISER Tirupati**<br>
   MTH 121-Linear Algebra (Teaching Associate)<br> 
-  Summer 2022-2023, IISER Tirupati<br>
+  **Summer 2022-2023, IISER Tirupati**<br>
   MTH 122-Linear Algebra (Instructor)<br> 
   MTH 211-Multivariable Calculus (Instructor)<br>
 <hr style="border:3px light gray">
