@@ -4,7 +4,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-<hr style="border:1px light gray">
+<hr style="border:0px light gray">
 **<font size="6">Teaching(present)</font>**  
 <hr style="border:3px light gray">
   Summer term (2022-2023), IISER Tirupati<br>
