@@ -15,6 +15,7 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 <hr style="border:3px light gray">
 **<font size="6">Academic updates</font>**  
 <hr style="border:3px light gray">
+**18 Aug 2023** Got change to give talk "On $d$-holomorphic connections" in the <it>Discussion meeting on algebra and geometry</it> at IISER Bhopal, Madhya Pradesh, India.<br>
 **1 May 2023** Joined IISER Tirupati as a post-doctoral student<br>
 **14 March 2023** (<a href="files/Poster(Pi day 2023-IIT Gandhinagar).pdf">Link</a>)Participated in poster presentation with the topic "Orientability and Poincare duality theorem" on the ocassion of <it>Pie day</it> at IIT Gandhinagar, Gandhinagar, Gujarat, India.<br>
 **6-11 February 2023** (<a href="files/Poster(Vector bundles in Chennai).pdf">Link</a>)Got chance to present poster "On $d$-holomorphic connections" in the Conference <it>Vector bundles in Chennai</it> at IIT Madras, Chennai, Tamil Nadu, India.
