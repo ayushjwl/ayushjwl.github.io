@@ -15,7 +15,7 @@ Specifically, I am interested in moduli spaces, Gauge theory, Parabolic bundles.
 <hr style="border:3px light gray">
 **<font size="6">Academic updates</font>**  
 <hr style="border:3px light gray">
-**14 March 2024** Participated in mathematics day at IISER Tirupati and gave a talk on the title "$d$-holomorphic vector bundles and connections on Klein surface" organized jointly by IISER Tirupati and IIT Tirupati.
+**14 March 2024** Participated in mathematics day at IISER Tirupati and gave a talk with the title "$d$-holomorphic vector bundles and connections on Klein surface" organized jointly by IISER Tirupati and IIT Tirupati.
 <hr style="border:3px light gray">  
 **3 Nov 2023** I got a chance to give a talk with the title "Construction of Affine GIT quotients" in a graduate college seminar series on GIT at IISER Tirupati.<br>
 **18 Aug 2023** I got a chance to give a talk with the title "On $d$-holomorphic connections" in the <it>Discussion meeting on algebra and geometry</it> at IISER Bhopal, Madhya Pradesh, India.<br>
