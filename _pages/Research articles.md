@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Publications**  
-1. A gauge theoretic aspects of parabolic bundles over Klein surfaces (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2202.06210)  
+1. A gauge theoretic aspects of parabolic bundles over Klein surfaces (with Sanjay Amrutiya) [(Link)](https://link.springer.com/article/10.1007/s12044-023-00742-6)
 
 2. On d-holomorphic connections (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2208.04354) 
  
