@@ -8,12 +8,12 @@ author_profile: true
 
 
 **Publications**  
-1. A gauge theoretic aspects of parabolic bundles over Klein surfaces (with Sanjay Amrutiya) [(Link)](https://link.springer.com/article/10.1007/s12044-023-00742-6)
+1. A gauge theoretic aspects of parabolic bundles over Klein surfaces (with Sanjay Amrutiya) [(Link)](
+2. On d-holomorphic connections (with Sanjay Amrutiya) [(Link)](https://link.springer.com/article/10.1007/s12044-023-00742-6)
 
-2. On d-holomorphic connections (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2208.04354) 
  
  **Preprints**
- 1. Hodge decomposition theorem on compact d-Kähler manifolds [(arxiv)](https://arxiv.org/abs/2406.09312)
+ 1. Hodge decomposition theorem on compact d-Kähler manifolds [(Link)]([https://arxiv.org/abs/2406.09312](https://projecteuclid.org/journals/rmjm/rocky-mountain-journal-of-mathematics/acceptedpapers))
 
   **Projects**
   1. Some problems on d-Lie algebroids.
