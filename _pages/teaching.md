@@ -24,9 +24,13 @@ author_profile: true
   MTH 122-Linear Algebra (Instructor)<br> 
   MTH 211-Multivariable Calculus (Instructor)<br>
 <hr style="border:3px light gray">
-**Autumn 2019-2020** MA 504--Linear Algebra--IIT Gandhinagar, India (Graduate Teaching Fellow).<br>
-**Spring 2019-2020** MA 102--Mathematics II (Several variable calculus and complex analysis)--IIT Gandhinagar, India (Graduate Teaching Fellow).
+**Autumn 2019-2020, IIT Gandhinagar**<br> 
+  MA 504--Linear Algebra, India (Graduate Teaching Fellow)<br>
+**Spring 2019-2020, IIT Gandhinagar**<br>
+  MA 102--Mathematics II (Several variable calculus and complex analysis) (Graduate Teaching Fellow)<br>
 <hr style="border:3px light gray">
-**Spring 2018-2019** MA 102--Mathematics II (Real analysis and several variable calculus)--IIT Gandhinagar, India (Graduate Teaching Fellow).
+**Spring 2018-2019, IIT Gandhinagar**<br> 
+  MA 102--Mathematics II (Real analysis and several variable calculus) (Graduate Teaching Fellow).
 <hr style="border:3px light gray">  
-**Autumn 2017-2018** MA 101--Mathematics I (Linear algebra and differential equations)--IIT Gandhinagar, India (Teaching Associate).
+**Autumn 2017-2018, IIT Gandhinagar**<br>
+  MA 101--Mathematics I (Linear algebra and differential equations) (Teaching Associate).
