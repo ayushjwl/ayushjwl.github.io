@@ -8,6 +8,7 @@ author_profile: true
 **<font size="6">Teaching(present)</font>**  
 <hr style="border:3px light gray">-->
 **<font size="5">Teaching details in present</font>**  
+<hr style="border:3px light gray">
   **Autumn 2024-2025, IISER Tirupati**<br>
   MTH 111-Calculus (Teaching Associate)<br>
 <hr style="border:3px light gray">
