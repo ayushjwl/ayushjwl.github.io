@@ -7,6 +7,12 @@ author_profile: true
 <!--<hr>
 **<font size="6">Teaching(present)</font>**  
 <hr style="border:3px light gray">-->
+  **Autumn 2024-2025, IISER Tirupati**<br>
+  MTH 111-Calculus (Teaching Associate continuing...)<br>
+<hr style="border:3px light gray">
+  **Autumn 2023-2024, IISER Tirupati**<br>
+  MTH 211-Probability and Statistics (Teaching Associate for half semester)<br>
+<hr style="border:3px light gray">
   **Spring 2022-2023, IISER Tirupati**<br>
   MTH 121-Linear Algebra (Teaching Associate)<br> 
   **Summer 2022-2023, IISER Tirupati**<br>
