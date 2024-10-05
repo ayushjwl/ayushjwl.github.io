@@ -13,7 +13,7 @@ author_profile: true
 
  
  **Preprints**
- 1. Hodge decomposition theorem on compact d-Kähler manifolds [(arxiv)](https://arxiv.org/abs/2406.09312)
+ 1. Hodge decomposition theorem on compact d-Kähler manifolds (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2406.09312)
 
   **Projects**
   1. Some problems on d-Lie algebroids.
