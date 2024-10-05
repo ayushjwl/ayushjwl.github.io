@@ -16,5 +16,5 @@ author_profile: true
  1. Hodge decomposition theorem on compact d-Kähler manifolds (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2406.09312)
 
   **Projects**
-  1. Some problems on d-Lie algebroids.
+  1. Some problems on Lie algebroids.
   2. Some problems in Gauge theory and moduli spaces.
