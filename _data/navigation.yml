@@ -24,8 +24,8 @@ main:
   - title: "CV"
     url: /files/Ayush_CV.pdf
     
-  - title: "MTH 121"
-    url: /MTH121/
+  #- title: "MTH 121"
+   # url: /MTH121/
   
   #- title: "Miscellaneous"
    # url: /_pages/Puzzles/Puzzles.html
