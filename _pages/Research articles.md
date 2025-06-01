@@ -22,3 +22,6 @@ author_profile: true
  1. Hodge decomposition theorem on compact d-Kähler manifolds (with Sanjay Amrutiya) [(arxiv)](https://arxiv.org/abs/2406.09312)
  2. Moduli Spaces of Hom-Lie Algebroid Connections [(arxiv)](https://arxiv.org/pdf/2505.11954)
 
+**Ongoing**
+1. Cohomology of certain algebras, their deformation, Rota-baxter and Nijenhuis operators on certain algebras. 
+
