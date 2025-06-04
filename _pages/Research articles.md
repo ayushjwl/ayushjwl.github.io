@@ -13,7 +13,7 @@ author_profile: true
 2. In post-doc tenure, I have explored the theory of Lie algebroids as well as Lie groupoids and proved the gauge theoretic moduli of Lie algebroid connections for a given smooth vector bundle with fixed real (res. quaternionic) structure on a complex manifold with involution has smooth Hilbert Hausdorff manifold structure and space of connections over the moduli space has principal bundle structure. I have also studied the Hodge decomposition theorem for compact $d$-complex manifold with $d$-Kahler structure.
 3. For future directions, I am reading about the classification problem of smooth manifolds, some differential geometric invariants, and some algebraic invariants of certain moduli spaces. I am also reading about Hom structures on various types of algebra (Lie algebra, Leibniz algebra, Lie-Rinehart algebra, etc.) as well as algebroids (Lie algebroids, Leibniz algebroids, etc.).
 
-I am enthusiastically open to collaborating on new ideas<br> 
+I am enthusiastically open to collaborate on new ideas<br> 
 [Contact Me](mailto:ayushjwl.math@gmail.com) (ayushjwl.math@gmail.com)
    
 **Publications**  
