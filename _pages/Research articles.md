@@ -26,5 +26,6 @@ I am enthusiastically open to collaborate on new ideas<br>
  2. Moduli Spaces of Hom-Lie Algebroid Connections [(arxiv)](https://arxiv.org/pdf/2505.11954)
 
 **Ongoing**
-1. Cohomology of certain algebras, their deformation, Rota-baxter and Nijenhuis operators on certain algebras. 
+1. Cohomology of certain algebras, their deformation, Rota-baxter and Nijenhuis operators on certain algebras.
+2. Some problems on Hom-Lie algebroid.
 
