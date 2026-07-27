@@ -9,7 +9,7 @@ author_profile: true
 <hr style="border:3px light gray">-->
 
 <hr style="border:3px light gray">
-  %%**Autumn 2024-2025, IISER Tirupati**<br>
+  <!--**Autumn 2024-2025, IISER Tirupati**<br>-->
   MTH 111-Calculus (Teaching Associate)<br>
 <hr style="border:3px light gray">
 
