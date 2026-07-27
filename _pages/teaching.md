@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border:3px light gray">
   <!--**Autumn 2024-2025, IISER Tirupati**<br>-->
-  MTH 111-Calculus (<a href="www.iitk.ac.in">Link</a>)<br>
+  MTH 111-Calculus (<a href="https://drive.google.com/drive/folders/1u-9esvwvP9vWy0BHOUq7h0FKf9-nnBwp?usp=sharing">Link</a>)<br>
 <hr style="border:3px light gray">
 
 **<font size="5">Teaching details</font>**  
