@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border:3px light gray">
   <!--**Autumn 2024-2025, IISER Tirupati**<br>-->
-  Discrete structure and theory of logic (<a href="https://drive.google.com/drive/folders/1u-9esvwvP9vWy0BHOUq7h0FKf9-nnBwp?usp=sharing">Link</a>)<br>
+  BCS303-Discrete structure and theory of logic (<a href="https://drive.google.com/drive/folders/1u-9esvwvP9vWy0BHOUq7h0FKf9-nnBwp?usp=sharing">Link</a>)<br>
 <hr style="border:3px light gray">
 
 **<font size="5">Teaching details</font>**  
